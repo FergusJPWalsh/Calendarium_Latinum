@@ -14,7 +14,7 @@ The code is hosted and run from pythonanywhere.com
 
 [LT]
 
-Robotum Twitter nomine Calendarium Latinum (twitter.com/CalendariumLat), a Fergo Monemutensi factum.
+Robotum Twitter "Calendarium Latinum" (twitter.com/CalendariumLat) a Fergo Monemutensi factum.
 
 Robotum quod praeconatur diem hodiernum hebdomadis, mensis et annum cottidie et Latine.
 
