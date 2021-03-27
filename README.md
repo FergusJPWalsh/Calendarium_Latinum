@@ -16,7 +16,7 @@ The code is hosted and run from pythonanywhere.com
 
 Robotum Twitter nomine Calendarium Latinum (twitter.com/CalendariumLat), a Fergo Monemutensi factum.
 
-Robotum quod praeconatur diem hodiernum hebdomadis et mensis et annum cottidie et Latine.
+Robotum quod praeconatur diem hodiernum hebdomadis, mensis et annum cottidie et Latine.
 
 Dies hebdomadis dantur secundum gentilicios mores: dies Lunae, dies Martis et cet. (vide Isidorum Hispalensem "Etymologiarum" lib. V cap. 30). Dies datur modo antiquo, a Kalendis, Nonis vel Idibus nominatus. Annus datur "ab urbe condita", qui a Varrone traditur esse 753 ante Christum natum.
 
