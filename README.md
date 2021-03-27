@@ -1,5 +1,7 @@
 # Calendarium_Latinum
 
+[EN]
+
 Calendarium Latinum Twitter bot (twitter.com/CalendariumLat) by Fergus Walsh.
 
 A bot that tweets the day of the week, date and year everyday in Latin.
@@ -9,3 +11,15 @@ Days of the week follow the pagan names: dies Lunae, dies Martis etc. (see Isido
 The calendar used is the Gregorian calendar, not the Julian or 10-month Republican calendar.
 
 The code is hosted and run from pythonanywhere.com
+
+[LT]
+
+Robotum Twitter nomine Calendarium Latinum (twitter.com/CalendariumLat), a Fergo Monemutensi factum.
+
+Robotum quod praeconatur diem hodiernum hebdomadis et mensis et annum cottidie et Latine.
+
+Dies hebdomadis dantur secundum gentilicios mores: dies Lunae, dies Martis et cet. (vide Isidorum Hispalensem "Etymologiarum" lib. V cap. 30). Dies datur modo antiquo, a Kalendis, Nonis vel Idibus nominatus. Annus datur "ab urbe condita", qui a Varrone traditur esse 753 ante Christum natum.
+
+Calendarium est Gregorianum, non Iulianum vel antiquissimum.
+
+Scripta computatoria habitat apud pythonanywhere.com
