@@ -20,6 +20,6 @@ Robotum quod praeconatur diem hodiernum hebdomadis, mensis et annum cottidie et 
 
 Dies hebdomadis dantur secundum gentilicios mores: dies Lunae, dies Martis et cet. (vide Isidorum Hispalensem "Etymologiarum" lib. V cap. 30). Dies datur modo antiquo, a Kalendis, Nonis vel Idibus nominatus. Annus datur "ab urbe condita", qui a Varrone traditur esse 753 ante Christum natum.
 
-Calendarium est Gregorianum, non Iulianum vel antiquissimum.
+Calendarium est Gregorianum, non Iulianum nec antiquissimum.
 
 Scripta computatoria habitat apud pythonanywhere.com
