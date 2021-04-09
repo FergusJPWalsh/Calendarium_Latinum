@@ -16,10 +16,10 @@ The code is hosted and run from pythonanywhere.com
 
 Automatum Twitter "Calendarium Latinum" (twitter.com/CalendariumLat) a Fergo Monemutensi factum.
 
-Automatum quod praeconatur diem hodiernum hebdomadalem, diem mensis et annum cottidie et Latine.
+Automatum quod praeconatur diem hebdomadalem, diem mensis et annum cottidie et Latine.
 
 Dies hebdomadalis dantur secundum gentilicios mores: dies Lunae, dies Martis et cet. (vide Isidorum Hispalensem "Etymologiarum" lib. V cap. 30). Dies datur modo antiquo, a Kalendis, Nonis vel Idibus nominatus. Annus datur "ab urbe condita", qui a Varrone traditur esse 753 ante Christum natum.
 
 Calendarium est Gregorianum, non Iulianum nec antiquissimum.
 
-Scripta computatoria habitat apud pythonanywhere.com
+Scripta computatoria reperitur apud pythonanywhere.com
