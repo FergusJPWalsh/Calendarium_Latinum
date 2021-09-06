@@ -2,7 +2,7 @@
 
 [EN]
 
-Calendarium Latinum Twitter bot (twitter.com/CalendariumLat) by Fergus Walsh.
+[Calendarium Latinum Twitter bot](twitter.com/CalendariumLat) by Fergus Walsh.
 
 A bot that tweets the day of the week, date and year everyday in Latin.
 
@@ -14,7 +14,7 @@ The code is hosted and run from pythonanywhere.com
 
 [LT]
 
-Automatum Twitter "Calendarium Latinum" (twitter.com/CalendariumLat) a Fergo Monemutensi factum.
+Automatum [Twitter "Calendarium Latinum"](twitter.com/CalendariumLat) a Fergo Monemutensi factum.
 
 Automatum quod praeconatur diem hebdomadalem, diem mensis et annum cottidie et Latine.
 
