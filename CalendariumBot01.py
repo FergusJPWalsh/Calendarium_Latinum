@@ -35,6 +35,6 @@ today = date.today()
 wkdays = ["diēs Lūnae,","diēs Mārtis,","diēs Mercuriī,","diēs Iovis,","diēs Veneris,","diēs Sāturnī,","diēs Sōlis sīve diēs Dominicus,"]
 wkday = wkdays[today.weekday()]
 if today in calendarium:
-    hodie = f"Est hodiē {wkday}, {calendarium[today]}, annō ab urbe conditā {str(auc)}."
+    hodie = f"Est hodiē {wkday} {calendarium[today]}, annō ab urbe conditā {str(auc)}."
 str(hodie)
 api.update_status(hodie)
