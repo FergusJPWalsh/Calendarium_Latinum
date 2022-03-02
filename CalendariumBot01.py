@@ -32,7 +32,7 @@ with open("Calendarium Latinum.csv") as f:
 
 calendarium = dict(zip(dates, text))
 today = date.today()
-wkdays = ["diēs Lūnae,","diēs Mārtis,","diēs Mercuriī,","diēs Iovis,","diēs Veneris,","diēs Sāturnī,","diēs Sōlis sīve diēs Dominicus,"]
+wkdays = ["diēs Lūnae,","diēs Mārtis,","diēs Mercuriī,","diēs Iovis,","diēs Veneris,","diēs Sāturnī sīve diēs Sabbatī,","diēs Sōlis sīve diēs Dominicus,"]
 wkday = wkdays[today.weekday()]
 if today in calendarium:
     hodie = f"Est hodiē {wkday} {calendarium[today]}, annō ab urbe conditā {str(auc)}."
